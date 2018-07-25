@@ -17,7 +17,7 @@
 
 <?php
     require 'connectDB.php';
-
+    
     $connect = new connexion();
     $connect->connect();
 
